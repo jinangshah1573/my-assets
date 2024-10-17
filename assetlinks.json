@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.jinangshah1573.digifinal",
+        "sha256_cert_fingerprints": ["5B:18:FD:E6:EE:E3:A7:70:DD:EA:D1:53:FB:38:67:6E:C5:C0:21:78:A2:1F:B6:1E:27:0D:A0:C4:5E:05:61:BA"]
+      }
+    }
+  ]
+  
